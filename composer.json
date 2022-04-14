@@ -1,0 +1,16 @@
+{
+    "name": "luongdai/apinct",
+    "description": "Lay thong tin bai hat tu Nhaccuatui",
+    "authors": [
+        {
+            "name": "Lương Đai",
+            "email": "daipro98@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "luongdai\\ApiNct\\": "src/"
+        }
+    },
+    "require": {}
+}
