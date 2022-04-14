@@ -2,6 +2,7 @@
     "name": "luongdai/apinct",
     "description": "Lay thong tin bai hat tu Nhaccuatui",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Lương Đai",
