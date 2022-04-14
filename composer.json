@@ -1,6 +1,7 @@
 {
     "name": "luongdai/apinct",
     "description": "Lay thong tin bai hat tu Nhaccuatui",
+    "type": "library",
     "authors": [
         {
             "name": "Lương Đai",
@@ -12,5 +13,6 @@
             "luongdai\\ApiNct\\": "src/"
         }
     },
+    "minimum-stability": "stable",
     "require": {}
 }
